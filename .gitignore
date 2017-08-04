@@ -1,0 +1,11 @@
+*~
+.DS_Store
+
+# InteliJ project files
+.idea
+.idea/*
+*.iml
+frameworks/cocos2d-x
+node_modules
+.vscode
+lib

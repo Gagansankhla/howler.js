@@ -1,0 +1,6 @@
+*
+
+!lib/**
+!package.json
+!index.d.ts
+!typings.json
