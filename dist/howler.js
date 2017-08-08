@@ -2060,8 +2060,7 @@
     }
     if (self._preBuf) {
       decodeAudioData(null, self);
-    }
-    if (/^data:[^;]+;base64,/.test(url)) {
+    } else if (/^data:[^;]+;base64,/.test(url)) {
       // Decode the base64 data URI without XHR, since some browsers don't support it.
       var data = atob(url.split(',')[1]);
       var dataView = new Uint8Array(data.length);
