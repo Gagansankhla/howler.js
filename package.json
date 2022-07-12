@@ -1,5 +1,5 @@
 {
-  "name": "@playpowerlabs/howler",
+  "name": "@gagansankhla/howler",
   "description": "Javascript audio library for the modern web.",
   "homepage": "https://howlerjs.com",
   "keywords": [
@@ -15,7 +15,7 @@
     "audio sprite",
     "audiosprite"
   ],
-  "author": "James Simpson <james@goldfirestudios.com> (http://goldfirestudios.com)",
+  "author": "Gagan sankhla",
   "repository": {
     "type": "git",
     "url": "https://github.com/Gagansankhla/howler.js"
